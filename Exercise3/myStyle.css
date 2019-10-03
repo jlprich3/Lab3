@@ -1,0 +1,23 @@
+h2
+{
+  background-image:url(yarn.jpg);
+}
+
+h1:hover
+{
+  background-color: LightCyan;
+  color: LightCyan;
+}
+
+body
+{
+  background-color: LightCyan;
+  color: crimson;
+  font-family: Courier;
+  font-size: 11pt;
+}
+
+p.magic
+{
+  color:Indigo;
+}
